@@ -12,10 +12,10 @@ Imprimindo no console, o valor que será gasto de combustível para realizar est
 
 */
 
-var precoDoCombustivel = 5.95;
+var precoCombustivel = 5.95; //Considerado que o valor não mudará
 var gastoPorKM = 12.5;
-var distancia = 20;
+var distanciaEmKm = 20;
 
-var valorfinal = ((distancia / gastoPorKM) * precoDoCombustivel)
+var valorfinal = ((distancia / gastoPorKM) * precoCombustivel)
 
 console.log("O valor gasto da viagem é de R$" + valorfinal)

@@ -16,6 +16,6 @@ var precoCombustivel = 5.95; //Considerado que o valor não mudará
 var gastoPorKM = 12.5;
 var distanciaEmKm = 20;
 
-var valorfinal = ((distancia / gastoPorKM) * precoCombustivel)
+var valorfinal = ((distanciaEmKm / gastoPorKM) * precoCombustivel)
 
-console.log("O valor gasto da viagem é de R$" + valorfinal)
+console.log("O valor gasto da viagem é de R$ " + valorfinal.toFixed(2))

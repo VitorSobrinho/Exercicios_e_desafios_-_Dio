@@ -1,0 +1,15 @@
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/bin/Debug/net7.0/Curso .NET
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/bin/Debug/net7.0/Curso .NET.deps.json
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/bin/Debug/net7.0/Curso .NET.runtimeconfig.json
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/bin/Debug/net7.0/Curso .NET.dll
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/bin/Debug/net7.0/Curso .NET.pdb
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/obj/Debug/net7.0/Curso .NET.csproj.AssemblyReference.cache
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/obj/Debug/net7.0/Curso .NET.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/obj/Debug/net7.0/Curso .NET.AssemblyInfoInputs.cache
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/obj/Debug/net7.0/Curso .NET.AssemblyInfo.cs
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/obj/Debug/net7.0/Curso .NET.csproj.CoreCompileInputs.cache
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/obj/Debug/net7.0/Curso .NET.dll
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/obj/Debug/net7.0/refint/Curso .NET.dll
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/obj/Debug/net7.0/Curso .NET.pdb
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/obj/Debug/net7.0/Curso .NET.genruntimeconfig.cache
+/mnt/chromeos/GoogleDrive/MyDrive/Estudos/Dio/Cursos/Curso .NET/obj/Debug/net7.0/ref/Curso .NET.dll
